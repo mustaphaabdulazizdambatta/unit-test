@@ -68,4 +68,6 @@ $ anvil --help
 $ cast --help
 ```
 # unit-test
-# unit-test
+
+## To run the project👇🏿
+```forge test --mt test_Withdraw -vvvv
